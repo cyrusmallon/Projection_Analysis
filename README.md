@@ -8,4 +8,4 @@ This particular analysis was applied to a high dimensional phenotpyic data set o
 
 The analysis was performed in mathematica, and it was a collaboration between Sander van Doorn and myself. A more in depth explanation and the full result of this analysis can be found in the paper: https://www.nature.com/articles/s41396-017-0003-y. 
 
-![projection_analysis_fig](https://user-images.githubusercontent.com/56315077/174263522-f6885b06-94a2-4945-b0de-5a7e8cb1c955.png)
+![projection_analysis_fig](https://user-images.githubusercontent.com/56315077/174263799-6686e638-aff6-4775-886a-4d825cdeeb56.png)
